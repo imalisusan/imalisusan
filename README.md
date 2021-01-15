@@ -1,5 +1,5 @@
 ### Hi there, I'm Imali 🌹
-
+<br />
 [![Website](https://img.shields.io/website?label=imali.frog.co.ke&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imali.frog.co.ke/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DscStrathmore?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=DscStrathmore)
 <br /><br />
@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Laravel applications
 - 🌱 Currently learning Flutter 😅
 - 👯 Looking forward to collaborate on fun projects
-- 🥅 2020 Goals: Learn Ethical Hacking 🦾
+- 🥅 2021 Goals: Learn Ethical Hacking 🦾
 - ⚡ Fun fact: I love stargazing while writing
 <br />
 
