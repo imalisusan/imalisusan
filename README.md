@@ -5,7 +5,7 @@
 ## I'm a Developer, Student, and Child of God!!
 
 - 🔭 I’m currently working on Laravel applications
-- 🌱 Currently learning Flutter 😅
+- 🌱 Currently learning Dart and Flutter 😅
 - 👯 Looking forward to collaborate on fun projects
 - 🥅 2021 Goals: Learn Ethical Hacking 🦾
 - ⚡ Fun fact: I love stargazing while writing
