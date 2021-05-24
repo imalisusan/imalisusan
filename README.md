@@ -38,6 +38,8 @@
 - [Let me Introduce: Laravel](https://imali.frog.co.ke/laravel-intro/)
 - [Laravel: Building Database Schemas](https://imali.frog.co.ke/laraveldatabseschema/)
 - [First Laravel App? No problem](https://imali.frog.co.ke/firstlaravelapp/)
+- [Migrations in Laravel](https://imali.frog.co.ke/migrations-in-laravel/)
+- [Form Requests Validation in Laravel](https://imali.frog.co.ke/form-requests-validation-in-laravel/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://imali.frog.co.ke/blog/)
