@@ -5,7 +5,7 @@
 ## I'm a Developer and Child of God!!
 - 🔭 I’m currently working on Laravel applications
 - 👯 Looking forward to collaborate on fun projects
-- ⚡ Fun fact: I love poetry and singing
+- ⚡ Fun fact: I love blogging, poetry, singing and I am also learning to play the guitar
 <br />
 
 ### Languages and Tools:
@@ -37,14 +37,14 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Let me Introduce: Laravel](https://imali.frog.co.ke/laravel-intro/)
-- [Laravel: Building Database Schemas](https://imali.frog.co.ke/laraveldatabseschema/)
-- [First Laravel App? No problem](https://imali.frog.co.ke/firstlaravelapp/)
-- [Migrations in Laravel](https://imali.frog.co.ke/migrations-in-laravel/)
-- [Form Requests Validation in Laravel](https://imali.frog.co.ke/form-requests-validation-in-laravel/)
+- [Beginner's Guide to Laravel: So, why Laravel?](https://imalisusan.hashnode.dev/so-why-laravel)
+- [Beginner’s Guide to Laravel: The complete and easiest way to set up all OSs](https://imalisusan.hashnode.dev/the-complete-and-easiest-way-to-setup)
+- [Beginner’s Guide to Laravel: Let’s do authentication in 10 minutes](https://imalisusan.hashnode.dev/authentication-in-10-minutes)
+- [Beginner’s Guide to Laravel: Model View Controller Architecture](https://imalisusan.hashnode.dev/model-view-controller-architecture)
+- [Enhancing Laravel Scout Search with a Stop Words Removal Helper](https://imalisusan.hashnode.dev/enhancing-laravel-scout-search-with-a-stop-words-removal-helper)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://imali.frog.co.ke/blog/)
+➡️ [more blog posts...]([https://imali.frog.co.ke/blog/](https://imalisusan.hashnode.dev/))
 
 ---
 <br />
