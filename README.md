@@ -1,11 +1,12 @@
 ### Hello World, I'm Imali 🌹
-[![Website](https://img.shields.io/website?label=imalisusan.netlify.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imalisusan.netlify.app/)
+[![Website](https://img.shields.io/website?label=imalisusan.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imalisusan.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imalisusan_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=imalisusan_)
 <br /><br />
-## I'm a Developer and Child of God!!
+## I'm a Developer and Child of God!
 - 🔭 I’m currently working on Laravel applications
 - 👯 Looking forward to collaborate on fun projects
 - ⚡ Fun fact: I love blogging, poetry, singing and I am also learning to play the guitar
+- ⚡ In my free time, I make funny, cringey tiktoks about programming. Find me @controlcxcontrolv on Tiktok
 <br />
 
 ### Languages and Tools:
@@ -49,6 +50,12 @@
 ---
 <br />
 
+#### Contact Information
+- 📧 Email: susanimali52@gmail.com 
+- 🔗 LinkedIn: [imalisusan](https://www.linkedin.com/in/imalisusan/)
+- 🌐 Blog: [imalisusan](https://imalisusan.hashnode.dev/)
+- 🌐 Website: [imalisusan](https://imalisusan.netlify.app/)
+  
 <details>
   <summary>:zap: GitHub Stats</summary>
 
