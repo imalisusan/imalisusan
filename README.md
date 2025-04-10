@@ -5,7 +5,7 @@
 ## I'm a Developer and Child of God!
 - 🔭 I’m currently working on Laravel applications
 - 👯 Looking forward to collaborate on fun projects
-- ⚡ Fun fact: I love blogging, poetry, singing and I am also learning to play the guitar
+- ⚡ Fun fact: I love blogging, poetry, singing and content creation
 - ⚡ In my free time, I make funny, cringey tiktoks about programming. Find me  [@controlcxcontrolv](https://www.tiktok.com/@controlcxcontrolv) on Tiktok
 <br />
 
