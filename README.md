@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Laravel applications
 - 👯 Looking forward to collaborate on fun projects
 - ⚡ Fun fact: I love blogging, poetry, singing and content creation
-- ⚡ In my free time, I make funny, cringey tiktoks about programming. Find me  [@controlcxcontrolv](https://www.tiktok.com/@controlcxcontrolv) on Tiktok
+- ⚡ In my free time, I make funny, cringey tiktoks about programming. Find me  [@controlcxcontrolv](https://www.tiktok.com/@controlcxcontrolv) on Tiktok and [@imali_susan_](https://www.instagram.com/imali_susan_/) on Instagram
 <br />
 
 ### Languages and Tools:
