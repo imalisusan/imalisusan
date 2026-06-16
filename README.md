@@ -54,10 +54,10 @@
 <br />
 
 #### Contact Information
+- 🌐 Website: [imalisusan](https://imalisusan.com/)
 - 📧 Email: susanimali52@gmail.com 
 - 🔗 LinkedIn: [imalisusan](https://www.linkedin.com/in/imalisusan/)
 - 🌐 Blog: [imalisusan](https://imalisusan.hashnode.dev/)
-- 🌐 Website: [imalisusan](https://imalisusan.netlify.app/)
   
 <details>
   <summary>:zap: GitHub Stats</summary>
